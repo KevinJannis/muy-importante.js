@@ -28,3 +28,7 @@ I like the hang of it, in a Spanish voice that is.
 This does not work with mediaqueries, perhaps it will some day.
 
 Browser support is IE8+ and every modern browser that supports document.querySelectorAll();
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/KevinJannis/muy-importante.js/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
